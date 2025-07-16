@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kunal-agarwal1
 - 👀 I’m interested in computer science and techological innovation
-- 🌱 I’m currently learning Haskell
-- 💞️ I’m happy to collaborate on any innovative startup idea. 
+- 🌱 I’m currently learning Rust
+-  I’m happy to collaborate on any innovative idea. 
 - 📫 How to reach me - -
 
 <!---
